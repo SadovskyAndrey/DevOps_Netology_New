@@ -34,5 +34,5 @@ dd01a35078f040ca984cdd349f18d0b67e486c35  Update CHANGELOG.md
 c0b17610965450a89598da491ce9b6b5cbd6393f
 8364383c359a6b738a436d1b7745ccdce178df47
 
-7.
+7.Martin Atkins <mart@degeneration.co.uk>
 
